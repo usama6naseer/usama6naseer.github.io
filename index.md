@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Personal webpage
+title:  
 ---
 
 ___
