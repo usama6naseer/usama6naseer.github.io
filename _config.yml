@@ -11,10 +11,11 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Usama Naseer
-  tagline: Ph.D. candidate
-  # date_format: "%b %-d, %Y"
+  # tagline: Ph.D. candidate
+  date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   dark_mode: false # set true to add dark mode toggle
+
   # generate social links in footer
   social_links:
     twitter: usama6naseer
