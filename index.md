@@ -12,11 +12,6 @@ I can be reached at: *usama_naseer@brown.edu*
 ___
 ## Publications
 
-- **ConfigTron: Tackling network diversity with heterogeneous configurations.**  
-Usama Naseer, Theophilus Benson  
-To appear @ [**SIGCOMM 2020**](https://conferences.sigcomm.org/sigcomm/2020/)  
-[PDF](#)  
-
 - **Zero Downtime Release: Disruption-free Load Balancing of a Multi-Billion User Website.**  
 Usama Naseer, Theophilus Benson, Luca Niccolini, Udip Pant, Ranjeeth Dasineni, Alan Frindell  
 To appear @ [**SIGCOMM 2020**](https://conferences.sigcomm.org/sigcomm/2020/)  
