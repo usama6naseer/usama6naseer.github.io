@@ -19,18 +19,18 @@ Usama Naseer, Theophilus Benson
 
 - **WebMedic: Disentangling the Memory-Functionality Tension for the Next Billion Mobile Web Users.**  
 Usama Naseer, Theophilus Benson, Ravi Netravali  
-**HotMobile 2021**  
+**[HotMobile 2021](http://www.hotmobile.org/2021/)**  
 [PDF](https://dl.acm.org/doi/10.1145/3446382.3448652)  
 
 - **Zero Downtime Release: Disruption-free Load Balancing of a Multi-Billion User Website.**  
 Usama Naseer, Theophilus Benson, Luca Niccolini, Udip Pant, Ranjeeth Dasineni, Alan Frindell  
-[**SIGCOMM 2020**](https://research.fb.com/publications/zero-downtime-release-disruption-free-load-balancing-of-a-multi-billion-user-website/)  
-[PDF](#)  
+[**SIGCOMM 2020**](https://conferences.sigcomm.org/sigcomm/2020/)  
+[PDF](https://research.fb.com/publications/zero-downtime-release-disruption-free-load-balancing-of-a-multi-billion-user-website/)  
 
 - **InspectorGadget: A Framework for Inferring TCP Congestion Control Algorithms and Protocol Configurations.**  
 Sishuai Gong, Usama Naseer, Theophilus Benson  
 [**TMA 2020**](https://tma.ifip.org/2020/main-conference/)  
-[PDF](#)  
+[PDF](https://tma.ifip.org/2020/wp-content/uploads/sites/9/2020/06/tma2020-camera-paper24.pdf)  
 
 - **InspectorGadget: Inferring Network Protocol Configuration for Web Services.**  
 Usama Naseer, Theophilus Benson  
