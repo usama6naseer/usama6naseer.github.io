@@ -23,7 +23,7 @@ Usama Naseer, Theophilus Benson, Ravi Netravali
 [PDF](https://dl.acm.org/doi/10.1145/3446382.3448652)  
 
 - **Zero Downtime Release: Disruption-free Load Balancing of a Multi-Billion User Website.**  
-Usama Naseer, Theophilus Benson, Luca Niccolini, Udip Pant, Ranjeeth Dasineni, Alan Frindell  
+Usama Naseer, Luca Niccolini, Udip Pant, Ranjeeth Dasineni, Alan Frindell, Theophilus Benson  
 [**SIGCOMM 2020**](https://conferences.sigcomm.org/sigcomm/2020/)  
 [PDF](https://research.fb.com/publications/zero-downtime-release-disruption-free-load-balancing-of-a-multi-billion-user-website/)  
 
