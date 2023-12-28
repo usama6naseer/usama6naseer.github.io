@@ -10,10 +10,9 @@ I currently work at ByteDance (TikTok) on SDN research and development. Our team
 Current research focus: BGP Flowspec, vendor-agnostic switch control, network layer (L3) routing.  
 
 I completed my PhD from [Brown University](http://cs.brown.edu/) in the [Systems Group](https://systems.cs.brown.edu/) in 2023, under the supervision of [Theophilus Benson](http://cs.brown.edu/~tab/).  
-Dissertation: [CDPlane: A Dynamic Content Distribution Plane for the Next Billion Users.] (https://repository.library.brown.edu/studio/item/bdr:jcphtbmm)  
+Dissertation: [CDPlane: A Dynamic Content Distribution Plane for the Next Billion Users.](https://repository.library.brown.edu/studio/item/bdr:jcphtbmm)  
 
-Besides this stuff, I love football (the real one). [Keep the blue flag flying high](https://www.uefa.com/uefachampionsleague/match/2007693--bayern-vs-chelsea/)!  
-I can be reached at: *usama6naseer@gmail.com*
+Besides this stuff, I love football (the real one). [Keep the blue flag flying high](https://www.uefa.com/uefachampionsleague/match/2007693--bayern-vs-chelsea/)! I can be reached at: *usama6naseer@gmail.com*
 
 ___
 ## Publications
