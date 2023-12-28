@@ -6,11 +6,19 @@ title:
 ___
 ## About me
 
-I am a 6th year PhD Student at [Brown University](http://cs.brown.edu/) in the [Systems Group](https://systems.cs.brown.edu/), under the supervision of [Theophilus Benson](http://cs.brown.edu/~tab/). My research interests include web performance, CDN network configuration tuning, and Internet measurements. Besides this nerdy stuff, I love football (the real one). [Keep the blue flag flying high](https://www.uefa.com/uefachampionsleague/match/2007693--bayern-vs-chelsea/)!  
-I can be reached at: *usama_naseer@brown.edu*
+I currently work at ByteDance (TikTok) on SDN research and development, with the goal of automating egress traffic engineering for ByteDance's global content distribution network. Our team designs novel solutions and builds software-defined network controllers to intelligently steer traffic to the end-users, aiming to minimize congestion events and costs while maximizing performance and user satisfaction.  
+Research focus: BGP Flowspec, vendor-agnostic switch control, network layer (L3) routing.  
+
+I completed my PhD from [Brown University](http://cs.brown.edu/) in the [Systems Group](https://systems.cs.brown.edu/) in 2023, under the supervision of [Theophilus Benson](http://cs.brown.edu/~tab/). My research interests include web performance, CDN network configuration tuning, and Internet measurements. Besides this nerdy stuff, I love football (the real one). [Keep the blue flag flying high](https://www.uefa.com/uefachampionsleague/match/2007693--bayern-vs-chelsea/)!  
+I can be reached at: *usama6naseer@gmail.com*
 
 ___
 ## Publications
+
+- **JS Capsules: A Framework for Capturing Fine-grained JavaScript Memory Measurements for the Mobile Web.**  
+Usama Naseer, Theophilus Benson  
+[**SIGMETRICS 2023**](https://dl.acm.org/doi/10.1145/3579327)  
+[PDF](#)  
 
 - **Configanator: A Data-driven Approach to Improving CDN Performance.**  
 Usama Naseer, Theophilus Benson  
@@ -44,6 +52,7 @@ Usama Naseer, Theophilus Benson
 
 ___
 ## Professional Experience and Services
+- Network Software Development Engineer (R&D), SDN team @ **ByteDance**, Bellevue (Seattle), WA, USA - July 2023 to Present.
 - Research collaborator @ **Facebook**, Boston, MA, USA - September 2019 to December 2020.  
 - Research intern @ **Verizon Media CDN (EdgeCast)**, Los Angeles, CA, USA - June to August 2019.  
 - Research collaborator @ **Facebook**, Menlo Park, CA, USA - April to June 2019.
