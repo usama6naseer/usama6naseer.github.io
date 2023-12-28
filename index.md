@@ -6,10 +6,13 @@ title:
 ___
 ## About me
 
-I currently work at ByteDance (TikTok) on SDN research and development, with the goal of automating egress traffic engineering for ByteDance's global content distribution network. Our team designs novel solutions and builds software-defined network controllers to intelligently steer traffic to the end-users, aiming to minimize congestion events and costs while maximizing performance and user satisfaction.  
-Research focus: BGP Flowspec, vendor-agnostic switch control, network layer (L3) routing.  
+I currently work at ByteDance (TikTok) on SDN research and development. Our team focuses on automating egress traffic engineering for ByteDance's global content distribution network and designs novel solutions to intelligently steer traffic to the end-users, aiming to minimize congestion events and costs while maximizing performance and user satisfaction.  
+Current research focus: BGP Flowspec, vendor-agnostic switch control, network layer (L3) routing.  
 
-I completed my PhD from [Brown University](http://cs.brown.edu/) in the [Systems Group](https://systems.cs.brown.edu/) in 2023, under the supervision of [Theophilus Benson](http://cs.brown.edu/~tab/). My research interests include web performance, CDN network configuration tuning, and Internet measurements. Besides this nerdy stuff, I love football (the real one). [Keep the blue flag flying high](https://www.uefa.com/uefachampionsleague/match/2007693--bayern-vs-chelsea/)!  
+I completed my PhD from [Brown University](http://cs.brown.edu/) in the [Systems Group](https://systems.cs.brown.edu/) in 2023, under the supervision of [Theophilus Benson](http://cs.brown.edu/~tab/).  
+Dissertation: [CDPlane: A Dynamic Content Distribution Plane for the Next Billion Users.] (https://repository.library.brown.edu/studio/item/bdr:jcphtbmm)  
+
+Besides this stuff, I love football (the real one). [Keep the blue flag flying high](https://www.uefa.com/uefachampionsleague/match/2007693--bayern-vs-chelsea/)!  
 I can be reached at: *usama6naseer@gmail.com*
 
 ___
