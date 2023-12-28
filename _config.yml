@@ -1,8 +1,8 @@
 title: Usama Naseer - Personal webpage
 author: Usama Naseer
-email: usama_naseer@brown.edu
+email: usama6naseer@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Ph.D. candidate at Brown University.
+  Works at Bytedance, Ph.D. from Brown University.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Usama Naseer
-  # tagline: Ph.D. candidate
+  # tagline: Ph.D.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   dark_mode: false # set true to add dark mode toggle
@@ -42,7 +42,7 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: plainwhite
+# theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
